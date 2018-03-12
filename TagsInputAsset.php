@@ -17,7 +17,7 @@ use yii\web\AssetBundle;
  */
 class TagsInputAsset extends AssetBundle
 {
-    public $sourcePath = '@bower/bootstrap-tagsinput';
+    public $sourcePath = '@vendor/ahmadpriatama/bootstrap-tagsinput';
 
     public $js = [
     	'dist/bootstrap-tagsinput.js'
